@@ -7,6 +7,8 @@
 
 (NCの引き続き資料を作るために作りました。)
 
+[非公開wiki](https://github.com/TeamBirdmanTrial/wiki-private-)
+
 # [サイトマップ](Wiki) 
 ## [翼班](Wiki/翼班)  
 <details>

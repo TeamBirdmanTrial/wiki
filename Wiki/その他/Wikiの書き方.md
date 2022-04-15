@@ -4,6 +4,7 @@
 
 
 ---
+[GitHubアカウントの作成方法](https://qiita.com/ayatokura/items/9eabb7ae20752e6dc79d)
 
 編集権限を持っていない人は連絡くれたら招待メールを送ります
 
